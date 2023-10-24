@@ -6,7 +6,7 @@
  *
  *
    https://TheRedWave.xyz
-   https://t.me/TheRedWave
+   https://t.me/TheRedWave_xyz
    https://x.com/TheRedWave_xyz
 
    Contract features:
